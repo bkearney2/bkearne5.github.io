@@ -4,7 +4,7 @@
 
 ### Research papers
 
-[AMA Inhibition of NDM-1](pdf/AMA Inhibition of NDM-1 (final).docx)
+[AMA Inhibition of NDM-1](pdf/AMA_Inhibition_of_NDM-1_(final).docx)
 
 ---
 [The ARID1A Gene Mutation and Cancer](pdf/arid1a_paper.pdf)
@@ -21,11 +21,11 @@
 
 ---
 
-[Aspergillomarasmine A treatment for the inhibition of metallo-beta-lactamase antibiotic resistance](pdf/NDM Presentation.pptx)
+[Aspergillomarasmine A treatment for the inhibition of metallo-beta-lactamase antibiotic resistance](pdf/NDM_Presentation.pptx)
 
 ---
 
-[Lit review: Phosphate Promotes the Recovery of Mycobacterium tuberculosis β-Lactamase from Clavulanic Acid Inhibition](pdf/NDM Presentation.pptx)
+[Lit review: Phosphate Promotes the Recovery of Mycobacterium tuberculosis β-Lactamase from Clavulanic Acid Inhibition](pdf/Beta-lactamase2.pptx)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-[DNA footprinting overview](pdf/DNA footprinting.pptx)
+[DNA footprinting overview](pdf/DNA_footprinting.pptx)
 
 ### Bioinformatics code/presentations
 
@@ -52,9 +52,9 @@ Machine learning logistic regression
 Machine learning neural networks with leave-one-out cross validation
 - [neural network (2 hidden layers)](pdf/ML_files/neural_hw3.py)
 - [leave-one-out and data input](pdf/ML_files/loo_wdbc_kearney.py)
-- [writeup](pdf/ML_files/Neural_hw3_writeup (1).pdf)
+- [writeup](pdf/ML_files/Neural_hw3_writeup_(1).pdf)
 
 ---
 
-- [Presentation: statistical analysis of a biological dataset](pdf/Stats project.pptx)
+- [Presentation: statistical analysis of a biological dataset](pdf/Stats_project.pptx)
 
