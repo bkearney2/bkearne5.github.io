@@ -1,5 +1,5 @@
 title: Brendan Kearney # your name (or website title) here
-logo: "pfpt.jpg" # your photo (or logo) here
+logo: "/images/pfpt.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Portfolio of all research/presentations in academic/professional settings
   <br><br>
