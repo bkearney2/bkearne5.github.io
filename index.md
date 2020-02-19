@@ -7,9 +7,9 @@
 [AMA Inhibition of NDM-1](pdf/AMA_Inhibition_of_NDM-1_(final).docx)
 
 ---
+
 [The ARID1A Gene Mutation and Cancer](pdf/arid1a_paper.pdf)
 
----
 
 ### Undergraduate presentations and posters
 
@@ -29,7 +29,7 @@
 
 ---
 
-[Poster: Silicon nanowires](pdf/Silicon nanowires_image.pptx)
+[Poster: Silicon nanowires](pdf/Silicon_nanowires_image.pptx)
 
 ---
 
@@ -56,5 +56,5 @@ Machine learning neural networks with leave-one-out cross validation
 
 ---
 
-- [Presentation: statistical analysis of a biological dataset](pdf/Stats_project.pptx)
+[Presentation: statistical analysis of a biological dataset](pdf/Stats_project.pptx)
 
