@@ -4,7 +4,7 @@
 
 ### Research papers
 
-[AMA Inhibition of NDM-1](pdf/AMA_Inhibition_of_NDM-1_(final).docx)
+[AMA Inhibition of NDM-1](pdf/AMA_Inhibition_of_NDM-1.docx)
 
 ---
 
