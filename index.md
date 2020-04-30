@@ -2,39 +2,6 @@
 
 ---
 
-### Research papers
-
-[AMA Inhibition of NDM-1](pdf/AMA_Inhibition_of_NDM-1.docx)
-
----
-
-[The ARID1A Gene Mutation and Cancer](pdf/arid1a_paper.pdf)
-
-
-### Undergraduate presentations and posters
-
-[2017 Elon University Student Undergraduate Research Forum poster](pdf/SUREPosterFinal.pptx)
-
----
-
-[Developing New Modes of Reactivity by Bond Polarization](pdf/SURE_presentation.pptx)
-
----
-
-[Aspergillomarasmine A treatment for the inhibition of metallo-beta-lactamase antibiotic resistance](pdf/NDM_Presentation.pptx)
-
----
-
-[Lit review: Phosphate Promotes the Recovery of Mycobacterium tuberculosis β-Lactamase from Clavulanic Acid Inhibition](pdf/Beta-lactamase2.pptx)
-
----
-
-[Poster: Silicon nanowires](pdf/Silicon_nanowires_image.pptx)
-
----
-
-[DNA footprinting overview](pdf/DNA_footprinting.pptx)
-
 ### Bioinformatics code/presentations
 
 Machine learning linear regression
@@ -67,3 +34,35 @@ Genomics
 
 ---
 
+### Research papers
+
+[AMA Inhibition of NDM-1](pdf/AMA_Inhibition_of_NDM-1.docx)
+
+---
+
+[The ARID1A Gene Mutation and Cancer](pdf/arid1a_paper.pdf)
+
+
+### Undergraduate presentations and posters
+
+[2017 Elon University Student Undergraduate Research Forum poster](pdf/SUREPosterFinal.pptx)
+
+---
+
+[Developing New Modes of Reactivity by Bond Polarization](pdf/SURE_presentation.pptx)
+
+---
+
+[Aspergillomarasmine A treatment for the inhibition of metallo-beta-lactamase antibiotic resistance](pdf/NDM_Presentation.pptx)
+
+---
+
+[Lit review: Phosphate Promotes the Recovery of Mycobacterium tuberculosis β-Lactamase from Clavulanic Acid Inhibition](pdf/Beta-lactamase2.pptx)
+
+---
+
+[Poster: Silicon nanowires](pdf/Silicon_nanowires_image.pptx)
+
+---
+
+[DNA footprinting overview](pdf/DNA_footprinting.pptx)
