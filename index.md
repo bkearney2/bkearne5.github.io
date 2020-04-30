@@ -56,5 +56,14 @@ Machine learning neural networks with leave-one-out cross validation
 
 ---
 
-[Presentation: statistical analysis of a biological dataset](pdf/Stats_project.pptx)
+Statistics
+- [Presentation: statistical analysis of a biological dataset](pdf/Stats_project.pptx)
+- [Using python to plot covid19 trends](pdf/Kearney_covid19_trends.ipynb)
+
+---
+
+Genomics
+- [NGS quality control](pdf/Lab1_Genomics.pdf)
+
+---
 
