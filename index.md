@@ -4,6 +4,12 @@
 
 ### Bioinformatics code/presentations
 
+Independent Research
+- ['Conversion and Validation of Biomedical Data Using Translation by Identifiers', presented Dec 2020](PosterKearneypdf.pdf)
+- [Repository of python scripts](https://github.com/joiningdata/TranslationValidation)
+
+---
+
 Machine learning linear regression
 - [class and sklearn testing](pdf/ML_files/lmClass_and_sklearn_linmodel.py)
 
